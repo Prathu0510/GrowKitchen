@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GrowKitchen/static/css/main.3c04d1dc.css",
+    "main.css": "/GrowKitchen/static/css/main.14b77b18.css",
     "main.js": "/GrowKitchen/static/js/main.8e86a915.js",
     "index.html": "/GrowKitchen/index.html",
-    "main.3c04d1dc.css.map": "/GrowKitchen/static/css/main.3c04d1dc.css.map",
+    "main.14b77b18.css.map": "/GrowKitchen/static/css/main.14b77b18.css.map",
     "main.8e86a915.js.map": "/GrowKitchen/static/js/main.8e86a915.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c04d1dc.css",
+    "static/css/main.14b77b18.css",
     "static/js/main.8e86a915.js"
   ]
 }
